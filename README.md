@@ -31,10 +31,11 @@ brew install ubuntu/microk8s/microk8s
 ```
 
 Once installed, run:
-
 ```sh
 microk8s install
 ```
+*Note : Above command is to run microk8s, although it wrote as 'install'*
+
 
 Check if MicroK8s is Running
 ```sh
